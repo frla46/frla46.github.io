@@ -4,7 +4,7 @@ languageName = 'Japanese'
 defaultContentLanguage = 'ja'
 hasCJKLanguage = true
 title = "frla's blog"
-theme = 'ananke'
+theme = 'holy'
 
 [params]
 text_color = 'dark-gray'
