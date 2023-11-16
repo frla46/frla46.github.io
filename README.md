@@ -1,7 +1,6 @@
-# blog [WIP]
+# my blog
 
-[frla's blog](https://frla46.github.io/)
+[frla46.github.io](https://frla46.github.io/)
 
-## TODO
-
-- [ ] write posts
+- SSG: [gohugoio/hugo](https://github.com/gohugoio/hugo)
+- theme: [serkodev/holy](https://github.com/serkodev/holy)
