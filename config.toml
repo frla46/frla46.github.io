@@ -1,0 +1,11 @@
+baseURL = 'https://frla46.github.io/'
+title = "[frla@home ~]$"
+theme = 'holy'
+
+[params]
+
+[menu]
+[[menu.main]]
+name = "~/posts"
+weight = 0
+url = "/posts"
