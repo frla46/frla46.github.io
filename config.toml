@@ -1,6 +1,7 @@
 baseURL = 'https://frla46.github.io/'
 title = "[frla@home ~]$"
 theme = 'holy'
+enableRobotsTXT = true
 
 [params]
 
